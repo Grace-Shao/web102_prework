@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![Video Walkthrough](https://i.imgur.com/bvdOS3v.gif)
+![codePath website demo](https://github.com/Grace-Shao/web102_prework/assets/77251173/dd692fec-b8c4-4b86-8f1b-4c1c8cc8306b)
 <!--<img src='https://i.imgur.com/bvdOS3v.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />-->
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
